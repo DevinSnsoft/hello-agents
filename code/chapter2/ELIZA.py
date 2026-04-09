@@ -136,6 +136,7 @@ def respond(user_input):
 # ============================================
 if __name__ == '__main__':
     # 打印欢迎语
+    print("我是Devin，我在dev_Devin分支进行开发。")
     print("Therapist: Hello! How can I help you today?")
     
     # 无限循环处理用户输入
